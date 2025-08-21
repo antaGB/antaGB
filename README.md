@@ -3,7 +3,7 @@
 💻 Web Developer | 🚀 Fast Learner | 🧩 Problem Solver  
 
 I love building web apps that solve real problems.  
-Currently working on **Hotel HRIS**, **POS systems**, and exploring **Go & .NET**.  
+Currently exploring **Go & .NET**.  
 
 ---
 
@@ -27,8 +27,6 @@ Currently working on **Hotel HRIS**, **POS systems**, and exploring **Go & .NET*
 ---
 
 ## 🌱 Currently Exploring
-- Building **modern web apps** with **Vue + .NET API**
-- Improving **POS systems** with inventory & barcode scanning
 - Playing with **Go** for backend services
 - Learning **Rust curiosity**
 
