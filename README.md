@@ -1,4 +1,4 @@
-# 👋 Hi, Anta Permana
+# 👋 Hi, I'm Anta Permana
 
 💻 Web Developer | 🚀 Fast Learner | 🧩 Problem Solver  
 
