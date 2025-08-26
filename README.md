@@ -20,9 +20,9 @@ Currently exploring **Go & .NET**.
 
 ## 📊 GitHub Stats
 
-![Anta's GitHub stats](https://github-readme-stats.vercel.app/api?username=antap&show_icons=true&theme=default&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antap&layout=compact&hide_border=true)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=antap&theme=default&hide_border=true)](https://git.io/streak-stats)
+![Anta's GitHub stats](https://github-readme-stats.vercel.app/api?username=antaGB&show_icons=true&theme=default&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antaGB&layout=compact&hide_border=true)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=antaGB&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
