@@ -3,7 +3,7 @@
 💻 Web Developer | 🚀 Fast Learner | 🧩 Problem Solver  
 
 I love building web apps that solve real problems.  
-Currently exploring **Go & .NET**.  
+Specialize in Laravel, React, Vue
 
 ---
 
@@ -12,17 +12,8 @@ Currently exploring **Go & .NET**.
 ![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Anta's GitHub stats](https://github-readme-stats.vercel.app/api?username=antaGB&show_icons=true&theme=default&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antaGB&layout=compact&hide_border=true)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=antaGB&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
@@ -32,12 +23,6 @@ Currently exploring **Go & .NET**.
 
 ---
 
-## 🎯 Fun Facts
-- ⚡ I drink too much coffee while coding  
-- 🎮 Love tinkering with small side projects  
-- 🧠 Critical thinker, always curious about “how things work”  
-
----
 
 ## 🌐 Connect with Me
 
