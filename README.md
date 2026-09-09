@@ -2,7 +2,6 @@
 
 Full-Stack Web Developer based in Bali, Indonesia. I specialize in building high-performance web applications, scalable back-end architectures, and real-time web systems.
 
----
 
 ### 🚀 What I Do
 
@@ -32,23 +31,16 @@ Full-Stack Web Developer based in Bali, Indonesia. I specialize in building high
 
 ---
 
-### 📌 Featured Projects
-
-* 🐻 **[BeruangPOS](https://github.com/your-username/beruangpos)** — Real-time Point of Sale & Inventory system built with Laravel 11, Inertia.js, React, and Laravel Reverb WebSockets.
-* 🌐 **Nexus API** — Enterprise Access & Resource Manager built with Laravel, focusing on modular back-end architecture and role management.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" alt="Anta's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=antaGb&show_icons=true&theme=tokyonight&hide_border=true" alt="Anta's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antaGb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
 
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* **Email:** [your-email@example.com](mailto:antapermana1156@example.com)
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/anta-permana)
