@@ -1,34 +1,54 @@
-# 👋 Hi, I'm Anta Permana
+# Hi there, I'm Anta Permana 👋
 
-💻 Web Developer | 🚀 Fast Learner | 🧩 Problem Solver  
-
-I love building web apps that solve real problems.  
-Specialize in Laravel, React, Vue
+Full-Stack Web Developer based in Bali, Indonesia. I specialize in building high-performance web applications, scalable back-end architectures, and real-time web systems.
 
 ---
 
-## ⚡ Tech Stack
+### 🚀 What I Do
 
-![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-
----
-
-## 🌱 Currently Exploring
-- Playing with **Go** for backend services
-- Learning **Rust curiosity**
+* 🛠️ **Back-End Architecture:** Designing robust APIs, relational database schemas, and event-driven architectures using **Laravel** and **Express.js**.
+* ⚡ **Front-End Development:** Building dynamic, type-safe interfaces using **React**, **TypeScript**, **Inertia.js**, and **Tailwind CSS**.
+* 📡 **Real-Time Systems:** Implementing WebSocket workflows with **Laravel Reverb** for live data streaming and instant updates.
+* 📦 **Database Management:** Structuring optimized query pipelines and migration schemas in **MySQL** and **PostgreSQL**.
 
 ---
 
+### 🛠️ Tech Stack
 
-## 🌐 Connect with Me
+**Languages & Frameworks**
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232A.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=flat-square&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/i-ketut-anta-permana)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:antapermana1156@gmail.com)  
+**Databases & Tools**
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=antap&color=blue&style=flat-square)
+### 📌 Featured Projects
+
+* 🐻 **[BeruangPOS](https://github.com/your-username/beruangpos)** — Real-time Point of Sale & Inventory system built with Laravel 11, Inertia.js, React, and Laravel Reverb WebSockets.
+* 🌐 **Nexus API** — Enterprise Access & Resource Manager built with Laravel, focusing on modular back-end architecture and role management.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" alt="Anta's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+* **Email:** [your-email@example.com](mailto:your-email@example.com)
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
