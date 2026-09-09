@@ -7,7 +7,6 @@ Full-Stack Web Developer based in Bali, Indonesia. I specialize in building high
 
 * 🛠️ **Back-End Architecture:** Designing robust APIs, relational database schemas, and event-driven architectures using **Laravel** and **Express.js**.
 * ⚡ **Front-End Development:** Building dynamic, type-safe interfaces using **React**, **TypeScript**, **Inertia.js**, and **Tailwind CSS**.
-* 📡 **Real-Time Systems:** Implementing WebSocket workflows with **Laravel Reverb** for live data streaming and instant updates.
 * 📦 **Database Management:** Structuring optimized query pipelines and migration schemas in **MySQL** and **PostgreSQL**.
 
 ---
@@ -31,16 +30,7 @@ Full-Stack Web Developer based in Bali, Indonesia. I specialize in building high
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antaGb&show_icons=true&theme=tokyonight&hide_border=true" alt="Anta's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antaGb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
-* **Email:** [your-email@example.com](mailto:antapermana1156@example.com)
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/anta-permana)
+* **Email:** [antapermana1156@example.com](mailto:antapermana1156@example.com)
+* **LinkedIn:** [linkedin.com/in/anta-permana](https://linkedin.com/in/anta-permana)
